@@ -1,0 +1,27 @@
+nav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+}
+
+
+ul{
+    display:flex;
+    justify-content: space-between;
+    margin: 0px 50px;
+}
+
+
+li{
+    display: inline;
+    list-style-type: none;
+}
+
+
+a{
+    color: darkorange;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 1000;
+
+}
