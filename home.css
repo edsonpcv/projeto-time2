@@ -78,6 +78,7 @@ body{
      background-repeat: no-repeat;
      background-position-x: center;
      background-size: 2000px 1024px ;
+     
     
     
 }
@@ -133,10 +134,47 @@ footer{
     height: 40px;
   }
 
-  footer{
+  footer a{
 
-    padding: 20px;
+    padding: 0px;
   }
+
+  .bgSizeContain{
+
+    width: 33%;
+    margin: 20px 1px;
+  
+}
+
+h1{
+
+   color: white;
+   text-shadow: 6px 6px 6px black;
+   text-align: center;
+   font-size: 30px;
+  
+  
+}
+
+p{
+
+  color: white;
+  text-shadow: 8px 8px 8px black;
+  text-align: center;
+  font-size: 20px;
+}
+
+main h2{
+
+
+color: white;
+text-shadow: 10px 10px 10px black;
+ text-align: center;
+ margin-top: 15%;
+ font-size: 60px;
+
+}
+
 
 
 
